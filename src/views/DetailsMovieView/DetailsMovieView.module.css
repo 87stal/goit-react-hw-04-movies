@@ -1,0 +1,19 @@
+.img {
+  width: 200px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.button {
+  margin: 10px;
+  width: 100px;
+  height: 20px;
+  border: 1px solid aqua;
+  background-color: aqua;
+  line-height: 16px;
+}
+
+.button:hover{
+  background-color:cadetblue;
+  border-color: cadetblue;
+}

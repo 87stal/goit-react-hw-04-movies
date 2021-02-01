@@ -1,0 +1,13 @@
+.button {
+  
+  width: 100px;
+  height: 30px;
+  border: 1px solid aqua;
+  background-color: aqua;
+  line-height: 16px;
+}
+
+.button:hover {
+  background-color: cadetblue;
+  border-color: cadetblue;
+}
